@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function ArrowRightIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAeNJREFUeNrslztIw1AUhv+0qVgr1Do4OSiIk4JOCiIOvkDaIUMddFAEV0HdxNGCiri5ig520MFBoVis2mIVZwuC4JMqiIoiltLm5bltilXXpHHICSfcmzuc7/z5by7hVFWFmWGDyWEBWAAWgOkARkeZbxnqwCJ2aMyboYBLVoDOenh7Atikub3UAI6sDAjtM+hogNAdwNZvCCaLw7uEZ1GGm9HqeTKwYyadARSUo7dliNoNCpjDVmQWflqWCwAuUYF7ZdyPrKRAz8NJpUtWJJK5GucPQfS3jlL/awJHEPsaBEe3mr4FPA13ARkxT60fwHewQhzdmmvHEE6s4uQcu3szEPjCoq0sbwijD+fLlw20NTbh9CLhpamT/+EG1RiCgqpMAYXP4Ow6gewHosx/OQAbLTicbKrvK2ChkLElWeuR/H+bBA6OEIstYIIeiTkAO4fP9W1UKjorwJqRJGBkMD++u6fih7nik7T8SJlmr7+Ksp7So9lB1+9A/zxCo7QDL6+ASAjR2CKm6Dmh4I3tAqZAivKG8sEAz3mY7DckezyOVyo+XVy8YD3afHg3yvV2Ajg+xkd4Fj6aJouLwwDJ/yhAWac1yhR+1hpGqQDo64IKbZz6XfxfBGf9mFgAFoDZAF8CDACZ1p8bdg5ccgAAAABJRU5ErkJggg==" alt="ArrowRight" data-type="icon fatcow-icon" {...props} />
+}

@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function ButtonIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbNJREFUeNrsl79KxEAQxmfj5lARLSwFsTiIlfgAV+kbXG/jI4iPIYIvYGOtPoEi2GpjIUEsRLS0EVEv+8/5kttoou1uCm+Pudzmit+X3flmJ8I5R12OhDoeEwGdCxDja7qxe3SjLK1ai6kLhkv4kdOE8vO9rTW+oTw8P77MXawBFphgS/6a1VZkw0FGt08jKrQJuuQ9OUVgHZxeZWBDQM/XgkLbcvWFCAMHpmSUv12lx+cBpspYnoQtTK5JENKnYmEgwJAInPWAg+VB0ltBGb8C4QWA5Tm1AK1dNAFgNQSUCcjLryMJAIsaAjjtC4araAJsbbXvLTC8BViawArgPrCaWyAqf0JZEliA9bXglwuQhDqOANVOQsEfrasciCEALEGi7QJXuiDKFhjXdgHVLogj4I8c0OxNb8OQh5Ebs5o5wMSelGT5bx3QihAgZcUSP+qAc3r0cHF9tzJY79Pbhwq6BXMzKTGLwAQbMhY4+ps7hyeJnF4uz2kRrgziya3+fDzb3x7ynXugUo5FjiWO+QiNKjqSV45njpe6KUV7hA6FKM5xwPHum9Ju2/LJu+G/F/AlwAA7sE5j0DFDUwAAAABJRU5ErkJggg==" alt="Button" data-type="icon fatcow-icon" {...props} />
+}

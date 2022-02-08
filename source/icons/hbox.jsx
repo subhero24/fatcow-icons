@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function HboxIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbNJREFUeNrsVz9Lw1AQv9c/sZgKDYiTCNqh38LZL1B1UlzFoRkE8QOIIFgHcRWdFL+As5/BtQjiJIJQm1Jik3gHd+ERatOUmjjk4Mjl8rvcL3fv3SMqCALIUgqQseQEcgKZEwDehsbe8VVAiraZom0IAYsdDdQl1DXWv7IbnM9SREApZfEDB/Vrq3V250NxY+h5EJ1TSgGUikXsnfd4f3G4g64+6jzG3E4Ys42uBaoE6rtUwJTy0MNm6zyIE8Lwi2CKmDCfLEJDu1boK+KEMRW+TRoT5gt3wfXJfl0qNsnxwBg1bYzkEwIulqRD15Q2X5hvVAvSkLEtSEXyFvzvFigV/4IoJmHM+BbQ2IyTKCZhTJivNKIFge/2nzbt9vq4uU4YwsbFeJ4Pnu/DnFGGwnAQxkg+OYxoNvfQWeW2rKAuEunfpirqB+orHV4835PE+JKvpJeEnTW8PgtL7lXUXkX7he0q2t0R/vru0WXHGbjw0LahabfBrBhwc3pQEzzl1Y/jZV6En6hVBvRmYJtaFRz2W/zRb0LA0ICutkhmYZc1At8RjANZ/xmp/NcsJ5A1gR8BBgAoNW/sy6Yd8AAAAABJRU5ErkJggg==" alt="Hbox" data-type="icon fatcow-icon" {...props} />
+}

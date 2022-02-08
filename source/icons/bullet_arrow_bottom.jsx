@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function BulletArrowBottomIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAidJREFUeNpi/P//P8NAAiaGAQajDhh1wKgDRh3AQkgBIyMjS3p6+oa/f/96//v7l4FQuckI8hUzMwMLC8vdGTNmaAK5v/GVtixEOJITaIB3b99Ehp8/fzAQKrqBDmZgZ+dgKC0pVAZyuYD4I0UhAATsQEvfz5kzRzA4OIjh+IlTQKH/YIuQAcRhjAyWFmYMixcvAfE/AAXYCIYwET4SAFKqiYmJ22Tl5EWiY2IYrl69hhESIAdpa2sxLF2yhOHxo4dv5s+f7wUUvg3EH/DZQYwDWIGUCBArJiUlbRQVFROJiIxiePzkKcO/f/8gKZmJiUFWRpphxfJlDK9fv3ozb948f6DwfSB+QygNEOMAEAVzhEJyctImfn5BkYDAIIYfP39C4oidjWHj+vUMHz++fzN37jw/oNADmOWI6KHMASiOAIbEeg5OTnFvH1+wxJaNGxh+/vr1EujzQHTLqekAFEfExcYuYWVlVQIJ/v79+96ixYtjsFlODQewdHX3bWRhZfWCpXQmJkaQBAOsUAAz/4PwP7BloDTx+9evbWWlRaC08IficuD9hw9eAQH+DH/+/GH4B7UEjP/9h1r8H5wgYeKgUNu3bx8oF3AC8WdKywG258+eHZk7Z64NwdCCBgfIAT9//jxCrXKAF0jJAbEoEDMTWcT/BeLXQPwIFAIUpwFoUHLAPEkEABn6A4i/E0oDpOYCsgBFiZDW/YbRBsmoA0YdMOAOAAgwAMFeDAJwz15fAAAAAElFTkSuQmCC" alt="BulletArrowBottom" data-type="icon fatcow-icon" {...props} />
+}

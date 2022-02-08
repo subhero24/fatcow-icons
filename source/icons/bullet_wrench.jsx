@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function BulletWrenchIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAf9JREFUeNpi/P//P8NAAiaGAQajDhh1wKgDBtwBLMQoYmRkxCq+cMky43///2/i4uKSAvH//vnD8OfPn8tA9YExkeF3qeYAbGDO/IUenBwc2/X1dBjERMUZ3r97x8DMzMxw+8493UtXL98BuZumDvjx48cmcxNjBiZGZoaDh48w3Lh5gwFUrDMyMTFwsLNTNwqwgc+fP7Py8fMxXL9+k4GbkwMsVllWog+Tz8/Joq0Dfv/+DfYxPz8/AwsLM5gPBJdokgixgZ8/f3778eMXFxsLC8N/YCL9+eMHQ0NTy39QOgBhmqeB33/+/QFZ+hPocx4eHoaigjwGJiZmhjdv3jAsXLT4A7HmMBLTHkDOhvNKvf9zCYoyWCdPYHj68B7Dnbu3Gc6cPQuW4+bkYvj69cuZCX09CUBzr1I9BECWm2gwM2h7+DNcOdbL8IrLleHsuQvPJvR0eSIp+wLE96ieBkCWG2uwMGh4pDJc3zWbgfU/E8ObY+cYFs476UlO4iOpKAZZbqTGyqAJtPzmrrkM/xg4GD5+/AmWe/f2zWW61AXaPukMN3fPY/jPwMbw5f0XhuvPGBmSureC8v1/ujjgzr4FwNQItPztB4Ybzxlgll9ioBAQlQYEWb7sP36BwRGmhVqWk5INFYAUH5IQQcuJbe4zjvYLRh0w6oAR7wCAAAMAnKLAjXYIVWkAAAAASUVORK5CYII=" alt="BulletWrench" data-type="icon fatcow-icon" {...props} />
+}

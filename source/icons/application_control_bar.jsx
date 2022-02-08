@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function ApplicationControlBarIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAATNJREFUeNrslr9OwzAQxu/sS5omGaBiB56nCyOCl6iAxwApL0Fnlj4Cj9C5iBXEVP6o1DZ3To0Ku53FJ32RYkf5fvKdz0bnHAwZCgaODJABMkAGQBZd3nQPxrqptRbAxXdUSoFWuLi/nZ0RD43FfH43g6e3jx4AI5nv/n0yqeHiupuKtwBUxlhYbwCWqxf/QUx/eRy1xyCe4i0AKBPfZgt1pf0LRiKQc89h77XLNFKYtDxSFzpJ4dm9OqP90aosesyoRYh/CCgkhwvTr0Ds+wEygHiFHFDYGqXS0IyKJADiFSrdA2hGaivem9QkARgTes9fgILU+vyqaw03ohQAYm4274/Qbwo4YJ2yDiO2oP+xZb2ynsWQSx8aVpnwCJBl/mJ9Dn0WcePL1/IMkAEywMDxI8AAqOZff+sa9yEAAAAASUVORK5CYII=" alt="ApplicationControlBar" data-type="icon fatcow-icon" {...props} />
+}

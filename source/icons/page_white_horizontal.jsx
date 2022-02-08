@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function PageWhiteHorizontalIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAeBJREFUeNrsV21LwlAUPvfe2YaDgkhQETKQfoER+FK/QRICqX9XYjLTH9H/yMA+aGF9EJNyu5173YZbyy/u5YtHHgZzO/fZOc8951zCOYckjULCljgBglAeB4MnTMQ5tywIJyFcuqZEuIfJVaNRwOvPf0/v9/p9HpWNx2PeNYxXXCcVtLiCUB0hPg9fgKxYb/f96O+keAx37TbctFpQr1bzD4YxvG42i/5ICA0QJ+yU0tDg+Jt+fEI2m4V6pSJJ+CPhEaF4gTG2NRwCwlRVhcnbO+RyuUASHgKMrIQTBhzT1BRomuaSuMB0dHs9lwS1k2YzYECQ/dZAP85eYEwBPa2BrutuOi5rtTwKXwpT8UcgDBE6ojotleC+0wGytjkt3Oq3KEy0DEL3EJDsQyAgGMxmczgrlyWCzFpFfc9DgIYUAXQCi8WXhL8+cfxlMkdu2r0RYEgASEgllgTWB/99nwZY9IU/oBKuaYDE3ox8GqDJEthFgCYdASJ3QdQz4qZtiHUg6hnVX+iUTX/GR8C+KXp5DCHwXBVnEPnzQNTjuL2mIMDN5XKEk3FBdqgYIiCanmmaI7G2+NwDhBgWD2M8J1iIKWJI7NEoLXpzcLuIxESYvxHzpA9GOLvsDqcJ268AAwB9i+IGbEs7VgAAAABJRU5ErkJggg==" alt="PageWhiteHorizontal" data-type="icon fatcow-icon" {...props} />
+}

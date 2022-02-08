@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function Border1OuterIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAATxJREFUeNpiZGBgYPOtXf2TgUTwn4GJ4T8jIwPj//8MjAz/SNXOsLk5lB1I/WIBEtxQAWMg9ZuB9oAV6OGzUHvBDmCFSnwF4vckGMRWnJ/9uHfiVFmQQSToE4Q5BESwIEmALH9FgkHcQMvFoQ7/Sm5wMFESlgUFBS8pjQ+KHDBhwgTxAXXAaAiMhsDwCQFQaU7fEGBEcwAjI11D4D9mFIAdwFaUnwOS4wb6jBiaDRoCbESq5y7JywLrQ3eQmHfdWpCEEohNB6zkU7vmP5QNCQFQnQ6t0b6SgH9DQ+A3ifp+IUc4CyQCUBxAahogVR83cioYLQdGQ2A0BEZDgCIHlOZlDGwIdE+aQXEIwDsmwO4Sib5hxFHBkm4KqKskA+0q0aVvCLXnCag3xgitn7mR+oj0ALAa9BfDQAOAAAMAqWedFu4xBFMAAAAASUVORK5CYII=" alt="Border1Outer" data-type="icon fatcow-icon" {...props} />
+}

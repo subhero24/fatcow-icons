@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function TabIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAeRJREFUeNrsl79P20AUx7+2z3Ych5SI8qtDEBs7QiohFUtGCggBCxJbhv4DrdQZMTAiJAZmlihEICFEO0K6RB06slXK0FJAgAiOIT/OfRd+yBgWhCEDfqcn2+cnvc9937uzLDmOg2aajCZbABAABAABgOQFGv6aGYEeyepMUd+1v8FTT0qJxvG5jdOSXUXlfHJnfnqTpvlDAPKHz6tjRuvb3KfxIcS7TOyf+bPKrihQ3LewvP4D9unRxO7CzMYNBHPF6Uq4NZMeTeBPxUB2twRJui/RY03oJ0RM9JhIf0xgaW0nQ1OEBNsLYHAHrLszgu8/S4jquAJ4IoFILvzXXwuz/S3QGBM5jYcAGveHZcBUAcWH5G6IOvk/y0En9ZU7L/MGc4oOa/BFfncZeEMJDofzO++YF5VTQEjzf3+KtHWi8O6pW4Ce5FSMKQpqRGmo/q3+jgo06lSLeHIyVsxnD262oZaa+3bZ0R5FcqAP4UgI1kXNt/q7+8AMMVglG/nCHk7Oytj+ktKFAqao+9Toe1QqNSLk0CLas518RlsL5RpEbqsgHk0BoCqyhMWVbfC6qJHzzEevBJnyyUqjy1QhdIy89/r6knZC/rvRA0IKQfPCAFVyq9kfQ0jBf0EAEAC8eoD/AgwAT2+bhhJvIxgAAAAASUVORK5CYII=" alt="Tab" data-type="icon fatcow-icon" {...props} />
+}

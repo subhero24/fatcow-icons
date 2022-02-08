@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function DrawPointsIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAbhJREFUeNrsV8FKw0AQnaRKWhIQNPGgPXish/5Ic7Sm94KCf+An9A8EBe+NXnqwWC+C/oClB3v05CWoVUw0FhNnQnowZJvdUhBpFh7T7OTtvt3J7qNSGIbwl03KBeQC0gRIkkSh0Gg0jjC/R+9QH+Kk3W4fYO6bMV4mJzkfS0DBsqzjSmW7Wd+1QFEU8H0fzs9sGA7vT23b3k8RwcVJziczVlLCPWju1Otw1+9D97IXRXqmfsrPicMUUCSdL6MRyLIM64YeRXqm/mq1uiHKoXzaREsMAbKM9fP9Mei6gXULosH8rzElYDAYvFGlqKS8HNZiWTsQuJ7Xub25BsNYg3J5EwfV4arXBdf1OnH9Q0FOIHIKNAxbtVqtpWmaOfmiXde9wHaIuQfEe4LGxeE+BRhWEFTrVQOX5DjOE/5+RjwiXtNOAQ+HV8BkwFKMQjzhRwzmPZDFERHwqyul5pmXXBpnVgFza7kAoY8wN6MFNyM0EDISvNEgCDjNaApH3IzQQMhIyFC4zWg6R9yMTNNsqaoqZEZZnJnMCLGMGIuYEYszixkV41LRFn5ymhGT8z9uwvyPyUIJ+BFgAJWK8fprL1faAAAAAElFTkSuQmCC" alt="DrawPoints" data-type="icon fatcow-icon" {...props} />
+}

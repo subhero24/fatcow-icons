@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function NetworkingRedIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAkBJREFUeNpi/P//P8NAAkYgZttvrfMTlywTkGL982ut1YlbESCh+7M9V/z6yxL87y+I9x+ukIkZaBDzn7WKqdvB6o5ZqK34zcIW/A9ZGRpwPHqFnQVIcztYm+N2IhMjw+mDh4Nz61t////+l4Hp3yEGtQR/BobffxgY/v2Hq2FgZWF4tHBNcE5Z029GTmYGll2LGCxtLBBqsIGjV7hBDmD9eP8GzvBhYQT6jomJ4drlywz/f/xl+Kf0m4Hh20uGvz+B7D9/IfazMDMwszMD7frNcO3KZQZGDmawnq9Ac/+Aohi3G1hBDmA4/+IzzvgBe46B4cPedSsiQYH5wMKk5vOCXTa/gQ7QjjACq7u85BwDK9ABb7/8PLJv2+oWkNgzU9Wab88/2fzDaz/EDkEgVoTS2ABIP8iFr4EYFKVCQCxytttst06QMtiAy+vuMhiXnnIFMt8A8TuoPpA6fiBmwWHue1CSAkl+BTGA+Akeh/6CqvsH1fj51cdv+2+tv+II8sOrT//2Q814BcTfoB4DqWNngKRjbOA31EyyAC8QG6SWd/239IwGhZABVIxkwESmA0C+fMfIycjAyAnmv4OKkVUOkANY9lppH+Ri+GfFyMjE8IeJ6bXN4cvS0GClSwhwsTAzWVnYWTPoyAgy/GVkFAWVJ/SMAvZ/oPwNzGOgfA4tzdno6QBGeOYmkM9p5QCqgVEHjDpg1AGjDhh1wKgDRh0w4A4gt02I3pd4D22Wv6eXA9igbUBWtDb+L4ahBgACDACLl7/6l4pWEAAAAABJRU5ErkJggg==" alt="NetworkingRed" data-type="icon fatcow-icon" {...props} />
+}

@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function BulletArrowUpIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAaRJREFUeNpi/P//P8NAAiaGAQajDhh1wKgDRh0w4A5gIaSAkZERmzBzWlrain///oUwMPwHqmE6MHv2bFeg+B9sivEW9yBJfBib5cnJyeuADvj/9t37/2+AuK629n9SUtI6kBypdjASqozQQgBk+Wo+fv7AvNw8hoePHoMNUVKQZ5gwaSLDp48f18+dOzcUqO4vsSFAigOAliet5uMTCMzIymK4ceMmxBeghARUo66hxjBz2nSGT58+AB0xD8UR1HAAMzCIVysoKAT6BQQx3Lt3nwGkDeY2GFtJSZFh04Z1DA8ePFg/bx7CEZQ6gCUlJWW9ppa2j4WFFcOLl6+ABv6DycL8CFXLxCAhLsZw4sQxhuvXrm6ZM2dOIChh4rODhYicwsnCwuxjYGjC8PnLFwZOLk68ikFqQGpv37rhA9ILEqIoGwIBO9BvX1atWMIDzHZw3+IJMwYmJiZQyH2B6MXvAGKiQABIKQKxIFKYEwIgQ98D8X0g/kBpGmAFUtxAzEZiIfcLiL8C8W9qZUOyAUWJkNat5tHacNQBow4YdcCAOwAgwAA9PuABvXoivQAAAABJRU5ErkJggg==" alt="BulletArrowUp" data-type="icon fatcow-icon" {...props} />
+}

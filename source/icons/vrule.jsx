@@ -1,0 +1,5 @@
+import * as React from "react"; 
+	
+export default function VruleIcon(props) {
+	return <img width={32} height={32} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAVFJREFUeNrsl7FOwzAQhu9cqyqhhYWZF+EJEAszSyUGWIC1gDoWiW4MYYClYmNBygIMDJ36ImyVCkKlIoU6Z85R2t1XRBaf9EeObZ1/nz4Ph9Za8A1E1PvncRJF0U49qsH62irUo+rj8d72Li8br5xus684Gs2za0v88/6V2ckP2fj+xS00fHMqkEXNfZqtGK56DzD9nnEyWsz7hBYaQCKCy/YBDEdjcOOi6uibSFoBPtSCMRmYjEDC0dIG/irEBpRC0LrCUvwqVBkGFLQ6N5A89XMz0tByBgi67UMYvo1zHv69AgsIDc2fYIAwQBggDBAGCAOEAcIAYUkQVhyEWA6Ep51bSJ77+VjqQS9TvrvuEXykBFWN4qcoNWBn6WRwctHbmjenmKUDN+/dYgm7Y9eEbrI2iksY1oj1yvr0ySk14A5dKZpRLG4+ZaW+7fmvAAMA4aEVKy2MdA0AAAAASUVORK5CYII=" alt="Vrule" data-type="icon fatcow-icon" {...props} />
+}
